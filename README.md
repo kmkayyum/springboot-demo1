@@ -1,1 +1,1 @@
-# SprinBoot Sample project with maven, jenkins and eclipse setup
+# SprinBoot Sample project with maven, jenkins (git trigger) and eclipse setup
